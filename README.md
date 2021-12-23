@@ -2,6 +2,12 @@
   <img width="1100" height="auto" src="Sparkle.gif">
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/@avc_victor" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="victor_chukwuemeka"></a>
+   <a href="https://linkedin.com/in/ani-chukwuemeka-a65421199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="victorChukwuemeka"></a>
+  <a href="https://www.instagram.com/iam_victor_chukwuemeka/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="victor_chukwuemeka"  /></a>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Microverse
