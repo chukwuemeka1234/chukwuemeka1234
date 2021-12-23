@@ -1,10 +1,7 @@
 <p align="center">
   <img width="1100" height="auto" src="Sparkle.gif">
 </p>
-<h2>
-Hi there 👋 <br>
-I am Victor Chukwuemeka
-</h2>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Microverse
